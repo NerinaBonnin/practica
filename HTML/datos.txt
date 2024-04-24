@@ -1,0 +1,31 @@
+>>>>>>>>>>>>>HTML<<<<<<<<<<<<<<<<<<<<
+<head> es lo que no se ve en la pagina
+<body> es lo que se ve en la pagina
+<title> es el titulo que se le da a la pestaña
+h1 se usa para titulos
+h2 se usa para subtitulos
+<p> se usa para parrafos
+<li> se usa para crear una lista
+<ol> se usa para listas ordenadas
+<ul> se usa para listas desordenadas
+<a> se usa para poner enlaces (https)
+href(atributo) se usa para enlasar enlaces
+target="_blank"(atributo) se usa para que enl enlace se abra en otra pagina
+title=(atributo) hace que aparezca un texto al pasar el mouse por ensima del enlace o texto. Se suele poner en imagenes, enlaces,formulario,botones.
+<br> se usa para el salto de linea
+<img> muestra imagenes
+src=(atributo) se pone la ruta de la imagen
+alt=(atributo) para mostrar un texto de que se trata la imagen
+<form> se usa para crear un formulario
+<input> se usa para que el usuario ingrese cosas
+type="text" es para que la gente ingrese texto
+type="email" es para que la gente ingrese su email
+type="password" es para que la gente ingrese contraseñas
+type="submit" es un boton de enviar
+type="checkbox" es un cuadrito para completar
+type="radio" es para llenar un circulito
+type="file" se usa para cargar archivos
+type="date" se usa para poner la fecha nacimiento
+required se pone para obligar a la gente a rellenar los campos
+placeholder es para que aparezca algo por defecto en el input
+name es para que el servidor sepa lo que es
